@@ -1,0 +1,21 @@
+﻿@page
+@model Hackaton.App.Frontend.Pages.calentamientoModel
+@{
+    ViewData["Title"] = "Calentmaiento";
+}
+<h1>CALCULADORA DE IMC</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="masa"></label>
+        <input asp-for="masa" class="form-control" type="number" step="0.01">
+    </div>
+    <div class="form-group">
+        <label asp-for="altura"></label>
+        <input asp-for="altura" class="form-control"type="number"step="0.01">
+    </div>
+    <button type="submite" class="btn btn-primary" >Calcular IMC</button>
+    <div class="form-group">
+        <label asp-for="imc"></label>
+        <output asp-for="mensaje" class="form-control">
+    </div>
+</form>

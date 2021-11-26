@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFE6Zlvimt21wjBvSC54X9V53+1qNvsDw+T4mj+5ckuvjyt1W49kbhcbRtcF9fHZ7x0DRNHNm4WzgIOiDt1QFg==",
+  "success": true,
+  "projectFilePath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "/Users/josehiguera/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/josehiguera/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
