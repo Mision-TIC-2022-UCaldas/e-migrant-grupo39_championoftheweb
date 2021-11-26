@@ -2068,6 +2068,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "Hackaton.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Hackaton.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hackaton.App.Dominio.dll": {}
+        }
       }
     }
   },
@@ -7236,10 +7246,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "Hackaton.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Hackaton.App.Dominio/Hackaton.App.Dominio.csproj",
+      "msbuildProject": "../Hackaton.App.Dominio/Hackaton.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "Hackaton.App.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.sqlServer >= 5.0.0",
@@ -7252,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Persistencia/Hackaton.App.Persistencia.csproj",
+      "projectUniqueName": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/Hackaton.App.Persistencia.csproj",
       "projectName": "Hackaton.App.Persistencia",
-      "projectPath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Persistencia/Hackaton.App.Persistencia.csproj",
+      "projectPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/Hackaton.App.Persistencia.csproj",
       "packagesPath": "/Users/josehiguera/.nuget/packages/",
-      "outputPath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Persistencia/obj/",
+      "outputPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/josehiguera/.nuget/NuGet/NuGet.Config"
@@ -7269,7 +7285,11 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj": {
+              "projectPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

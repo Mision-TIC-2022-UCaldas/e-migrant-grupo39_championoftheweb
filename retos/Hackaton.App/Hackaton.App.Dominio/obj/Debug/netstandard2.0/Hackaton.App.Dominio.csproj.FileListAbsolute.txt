@@ -1,0 +1,9 @@
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/bin/Debug/netstandard2.0/Hackaton.App.Dominio.deps.json
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/bin/Debug/netstandard2.0/Hackaton.App.Dominio.dll
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/bin/Debug/netstandard2.0/Hackaton.App.Dominio.pdb
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/Debug/netstandard2.0/Hackaton.App.Dominio.csprojAssemblyReference.cache
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/Debug/netstandard2.0/Hackaton.App.Dominio.AssemblyInfoInputs.cache
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/Debug/netstandard2.0/Hackaton.App.Dominio.AssemblyInfo.cs
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/Debug/netstandard2.0/Hackaton.App.Dominio.csproj.CoreCompileInputs.cache
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/Debug/netstandard2.0/Hackaton.App.Dominio.dll
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/Debug/netstandard2.0/Hackaton.App.Dominio.pdb

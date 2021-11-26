@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hNK74WXLy7LfM9CrTjVoNUW5phHlDXXVs5ovp5ZmYFAa+84ZHgbvnXKyMjSKr/Of+6/I4hGoBGgWqrzqaSObw==",
+  "dgSpecHash": "OL8Ulwk4woJNXtFpnHbnI1sZMSQwuRVxKAHIwV3SirXP2kdo/HaZ1Lox6aov84zSZX7SiTUxcfGNpE7qU0AZcw==",
   "success": true,
-  "projectFilePath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Persistencia/Hackaton.App.Persistencia.csproj",
+  "projectFilePath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/Hackaton.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "/Users/josehiguera/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/josehiguera/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,0 +1,63 @@
+﻿@page
+@model Hackaton.App.Frontend.Pages.ReMigranteModel
+@{
+}
+<h1>REGISTRO DE MIGRANTES</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Migrante.nombre">Nombres</label>
+        <input asp-for="Migrante.nombre" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.apellido">Apellidos</label>
+        <input asp-for="Migrante.apellido" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.tipoId">Tipo de Identificación</label>
+        <select asp-for="Migrante.tipoId"class="form-control">
+            <option>Cedula_De_Ciudadania</option>
+            <option>Cedula_Extranjera</option>
+            <option>Pasaporte</option>
+            <option>Otro</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.identificacion">Número de Identificación</label>
+        <input asp-for="Migrante.identificacion" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.paisOrigen">País de Origen</label>
+        <input asp-for="Migrante.paisOrigen" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.fechaNacimiento">Fecha de Nacimiento</label>
+        <input asp-for="Migrante.fechaNacimiento" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.correoE">Correo Electrónico</label>
+        <input asp-for="Migrante.correoE" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.telefono">Número de telefono</label>
+        <input asp-for="Migrante.telefono" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Migrante.direcion">Dirección </label>
+        <input asp-for="Migrante.direcion" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.ciudad">Ciudad</label>
+        <input asp-for="Migrante.ciudad" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Migrante.sitLaboral">Situación Laboral</label>
+        <select asp-for="Migrante.sitLaboral"class="form-control">
+            <option>Desempleado</option>
+            <option>Buscando</option>
+            <option>Trabajando</option>
+        </select>
+    </div>
+    <button type="submite" class="btn btn-primary">Registrar Migrante</button>
+
+</form>

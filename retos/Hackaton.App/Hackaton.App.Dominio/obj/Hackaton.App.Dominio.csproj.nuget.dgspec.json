@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj": {}
+    "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj": {}
   },
   "projects": {
-    "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj": {
+    "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj",
+        "projectUniqueName": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj",
         "projectName": "Hackaton.App.Dominio",
-        "projectPath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj",
+        "projectPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/Hackaton.App.Dominio.csproj",
         "packagesPath": "/Users/josehiguera/.nuget/packages/",
-        "outputPath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Dominio/obj/",
+        "outputPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josehiguera/.nuget/NuGet/NuGet.Config"

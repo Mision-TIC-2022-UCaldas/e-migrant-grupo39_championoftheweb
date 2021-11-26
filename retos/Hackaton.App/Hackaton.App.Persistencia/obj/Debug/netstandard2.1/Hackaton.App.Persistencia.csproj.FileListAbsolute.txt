@@ -1,0 +1,12 @@
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.csprojAssemblyReference.cache
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.AssemblyInfoInputs.cache
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.AssemblyInfo.cs
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.csproj.CoreCompileInputs.cache
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/bin/Debug/netstandard2.1/Hackaton.App.Persistencia.deps.json
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/bin/Debug/netstandard2.1/Hackaton.App.Persistencia.dll
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/bin/Debug/netstandard2.1/Hackaton.App.Persistencia.pdb
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/bin/Debug/netstandard2.1/Hackaton.App.Dominio.dll
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/bin/Debug/netstandard2.1/Hackaton.App.Dominio.pdb
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.csproj.CopyComplete
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.dll
+/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Persistencia/obj/Debug/netstandard2.1/Hackaton.App.Persistencia.pdb
