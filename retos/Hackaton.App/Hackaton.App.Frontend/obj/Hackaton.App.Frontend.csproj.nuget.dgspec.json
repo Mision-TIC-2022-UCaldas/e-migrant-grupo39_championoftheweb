@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj": {}
+    "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj": {}
   },
   "projects": {
-    "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj": {
+    "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj",
+        "projectUniqueName": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj",
         "projectName": "Hackaton.App.Frontend",
-        "projectPath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj",
+        "projectPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Frontend/Hackaton.App.Frontend.csproj",
         "packagesPath": "/Users/josehiguera/.nuget/packages/",
-        "outputPath": "/Users/josehiguera/HACKATON/retos/Hackaton.App/Hackaton.App.Frontend/obj/",
+        "outputPath": "/Users/josehiguera/HACKATON/e-migrant-grupo39_championoftheweb/retos/Hackaton.App/Hackaton.App.Frontend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josehiguera/.nuget/NuGet/NuGet.Config"
